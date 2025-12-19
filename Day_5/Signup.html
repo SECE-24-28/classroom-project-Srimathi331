@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Signup</title>
+    <link rel="stylesheet" href="signup.css"> <!-- reuse same CSS -->
+</head>
+
+<body>
+    <div class="signup-container">
+        <h2>Signup</h2>
+
+        <label for="signupUsername">Username</label>
+        <input type="text" id="signupUsername" placeholder="Enter your username"/>
+
+        <label for="signupPassword">Password</label>
+        <input type="password" id="signupPassword" placeholder="Enter your password"/>
+
+        <button type="submit" id="signupBtn">SIGNUP</button>
+
+        <!-- Bottom small text -->
+        <div class="bottom-container">
+            <p class="goes_to_login">
+                Already have an account? <a href="login.html">Log in</a>
+            </p>
+            <p class="privacy_conditions">
+                By proceeding you are accepting <a href="#">Privacy Policy</a>, <a href="#">T&C</a> and <a href="#">Charges</a>.
+            </p>
+        </div>
+    </div>
+
+    <script src="signup.js"></script>
+</body>
+</html>
