@@ -1,0 +1,352 @@
+[
+  {
+    "planName": "RechaGo Lite 129",
+    "price": 129,
+    "description": "1GB/day + Unlimited Calls + 100 SMS/day",
+    "validity": "24 Days",
+    "speed": "4G"
+  },
+  {
+    "planName": "RechaGo Lite 199",
+    "price": 199,
+    "description": "1.5GB/day + Unlimited Calls",
+    "validity": "28 Days",
+    "speed": "4G"
+  },
+  {
+    "planName": "RechaGo Saver 149",
+    "price": 149,
+    "description": "2GB/day + 100 SMS/day",
+    "validity": "20 Days",
+    "speed": "4G"
+  },
+  {
+    "planName": "RechaGo Mini 99",
+    "price": 99,
+    "description": "1GB Total + Calls 500min",
+    "validity": "18 Days",
+    "speed": "4G"
+  },
+  {
+    "planName": "RechaGo Talktime 79",
+    "price": 79,
+    "description": "₹64 Talktime + 200MB",
+    "validity": "NA",
+    "speed": "—"
+  },
+  {
+    "planName": "RechaGo Value 169",
+    "price": 169,
+    "description": "1GB/day + Unlimited Calls",
+    "validity": "30 Days",
+    "speed": "4G"
+  },
+  {
+    "planName": "RechaGo Weekend 89",
+    "price": 89,
+    "description": "Unlimited 20GB Weekend + Calls",
+    "validity": "7 Days",
+    "speed": "4G"
+  },
+  {
+    "planName": "RechaGo Ultra 239",
+    "price": 239,
+    "description": "2GB/day + Unlimited Calls",
+    "validity": "28 Days",
+    "speed": "4G"
+  },
+  {
+    "planName": "RechaGo Saver+ 259",
+    "price": 259,
+    "description": "3GB/day + 100 SMS/day",
+    "validity": "30 Days",
+    "speed": "4G"
+  },
+  {
+    "planName": "RechaGo Monthly Lite 299",
+    "price": 299,
+    "description": "Unlimited Data FUP 1Mbps + Calls",
+    "validity": "30 Days",
+    "speed": "4G"
+  },
+  {
+    "planName": "RechaGo Hotstar+ Data 499",
+    "price": 499,
+    "description": "Disney+ Hotstar",
+    "validity": "28 Days",
+    "speed": "2GB/day"
+  },
+  {
+    "planName": "RechaGo Prime Pack 699",
+    "price": 699,
+    "description": "Amazon Prime Video",
+    "validity": "56 Days",
+    "speed": "2GB/day"
+  },
+  {
+    "planName": "RechaGo Netflix Lite 799",
+    "price": 799,
+    "description": "Netflix Mobile",
+    "validity": "30 Days",
+    "speed": "3GB/day"
+  },
+  {
+    "planName": "RechaGo SonyLIV Special 459",
+    "price": 459,
+    "description": "SonyLIV",
+    "validity": "30 Days",
+    "speed": "1.5GB/day"
+  },
+  {
+    "planName": "RechaGo Zee5 Unlimited 549",
+    "price": 549,
+    "description": "Zee5 Premium",
+    "validity": "60 Days",
+    "speed": "1.5GB/day"
+  },
+  {
+    "planName": "RechaGo YouTube Premium 589",
+    "price": 589,
+    "description": "YouTube Premium",
+    "validity": "30 Days",
+    "speed": "3GB/day"
+  },
+  {
+    "planName": "RechaGo Student Pack 299",
+    "price": 299,
+    "description": "Spotify + YouTube Music",
+    "validity": "30 Days",
+    "speed": "2GB/day"
+  },
+  {
+    "planName": "RechaGo Super OTT 999",
+    "price": 999,
+    "description": "Netflix + Prime + Hotstar",
+    "validity": "84 Days",
+    "speed": "3GB/day"
+  },
+  {
+    "planName": "RechaGo Premium+ 1159",
+    "price": 1159,
+    "description": "Prime + SonyLIV + Zee5",
+    "validity": "90 Days",
+    "speed": "2GB/day"
+  },
+  {
+    "planName": "RechaGo Mega OTT 1299",
+    "price": 1299,
+    "description": "Netflix + Zee5 + Spotify",
+    "validity": "84 Days",
+    "speed": "3GB/day"
+  },
+  {
+    "planName": "RechaGo Family OTT 1499",
+    "price": 1499,
+    "description": "Netflix (Shared) + Hotstar",
+    "validity": "90 Days",
+    "speed": "2.5GB/day"
+  },
+  {
+    "planName": "RechaGo Sports Prime 899",
+    "price": 899,
+    "description": "Hotstar Sports Pack",
+    "validity": "45 Days",
+    "speed": "3GB/day"
+  },
+  {
+    "planName": "RechaGo Ultra Streaming 1699",
+    "price": 1699,
+    "description": "Netflix + Prime + SonyLIV",
+    "validity": "120 Days",
+    "speed": "3GB/day"
+  },
+  {
+    "planName": "RechaGo Weekend OTT Boost 559",
+    "price": 559,
+    "description": "Zee5 + SonyLIV, 2GB/day weekdays, Unlimited weekends",
+    "validity": "30 Days",
+    "speed": "2GB/day"
+  },
+  {
+    "planName": "RechaGo Hybrid OTT 1099",
+    "price": 1099,
+    "description": "Hotstar + Zee5",
+    "validity": "75 Days",
+    "speed": "3GB/day"
+  },
+  {
+    "planName": "RechaGo Elite+ 1799",
+    "price": 1799,
+    "description": "Netflix + Prime + Hotstar + Zee5",
+    "validity": "120 Days",
+    "speed": "3.5GB/day"
+  },
+  {
+    "planName": "RechaGo Entertainment Pack 649",
+    "price": 649,
+    "description": "SonyLIV + Zee5",
+    "validity": "30 Days",
+    "speed": "2GB/day"
+  },
+  {
+    "planName": "RechaGo Duo Plan 799",
+    "price": 799,
+    "description": "Prime + Hotstar",
+    "validity": "60 Days",
+    "speed": "1.5GB/day"
+  },
+  {
+    "planName": "RechaGo Game+ OTT 999",
+    "price": 999,
+    "description": "YouTube Premium + Hotstar + Gaming Data",
+    "validity": "60 Days",
+    "speed": "3GB/day"
+  },
+  {
+    "planName": "RechaGo Annual OTT Max 2499",
+    "price": 2499,
+    "description": "Prime + Hotstar Basic",
+    "validity": "365 Days",
+    "speed": "2GB/day"
+  },
+  {
+    "planName": "Fiber Basic 40",
+    "price": 399,
+    "description": "Unlimited Data",
+    "validity": "30 Days",
+    "speed": "40 Mbps"
+  },
+  {
+    "planName": "Fiber Basic 50",
+    "price": 449,
+    "description": "Unlimited Data",
+    "validity": "30 Days",
+    "speed": "50 Mbps"
+  },
+  {
+    "planName": "Fiber Silver 100",
+    "price": 599,
+    "description": "Unlimited Data",
+    "validity": "30 Days",
+    "speed": "100 Mbps"
+  },
+  {
+    "planName": "Fiber Streaming 100+Hotstar",
+    "price": 799,
+    "description": "Disney+ Hotstar",
+    "validity": "30 Days",
+    "speed": "100 Mbps"
+  },
+  {
+    "planName": "Fiber Prime 150",
+    "price": 899,
+    "description": "Unlimited Data",
+    "validity": "30 Days",
+    "speed": "150 Mbps"
+  },
+  {
+    "planName": "Fiber Netflix Pro",
+    "price": 1099,
+    "description": "Netflix Basic",
+    "validity": "30 Days",
+    "speed": "150 Mbps"
+  },
+  {
+    "planName": "Fiber OTT Max",
+    "price": 1599,
+    "description": "Netflix + Prime Video + SonyLIV",
+    "validity": "30 Days",
+    "speed": "200 Mbps"
+  },
+  {
+    "planName": "Fiber Premium 250",
+    "price": 1299,
+    "description": "Unlimited Data",
+    "validity": "30 Days",
+    "speed": "250 Mbps"
+  },
+  {
+    "planName": "Fiber Ultra",
+    "price": 1499,
+    "description": "Amazon Prime Video",
+    "validity": "30 Days",
+    "speed": "300 Mbps"
+  },
+  {
+    "planName": "Fiber Sports HD",
+    "price": 1399,
+    "description": "Hotstar Sports + SonyLIV",
+    "validity": "30 Days",
+    "speed": "200 Mbps"
+  },
+  {
+    "planName": "Fiber Annual Lite",
+    "price": 6999,
+    "description": "Free Router",
+    "validity": "365 Days",
+    "speed": "50 Mbps"
+  },
+  {
+    "planName": "Fiber Annual Ultra",
+    "price": 12999,
+    "description": "Hotstar + Netflix",
+    "validity": "365 Days",
+    "speed": "200 Mbps"
+  },
+  {
+    "planName": "Fiber Turbo 500",
+    "price": 1999,
+    "description": "Unlimited Data",
+    "validity": "30 Days",
+    "speed": "500 Mbps"
+  },
+  {
+    "planName": "Fiber Elite Gaming",
+    "price": 1699,
+    "description": "Low latency + Cloud Gaming",
+    "validity": "30 Days",
+    "speed": "300 Mbps"
+  },
+  {
+    "planName": "Fiber Ultimate Xstream",
+    "price": 2999,
+    "description": "Netflix 4K + Prime + Zee5",
+    "validity": "30 Days",
+    "speed": "1 Gbps"
+  },
+  {
+    "planName": "Fiber Family OTT",
+    "price": 2899,
+    "description": "Netflix Shared + Prime + Hotstar",
+    "validity": "60 Days",
+    "speed": "200 Mbps"
+  },
+  {
+    "planName": "Fiber Pro Combo",
+    "price": 1299,
+    "description": "SonyLIV + Zee5",
+    "validity": "60 Days",
+    "speed": "100 Mbps"
+  },
+  {
+    "planName": "Fiber Mini 30",
+    "price": 349,
+    "description": "Unlimited Data",
+    "validity": "30 Days",
+    "speed": "30 Mbps"
+  },
+  {
+    "planName": "Fiber Social Pack",
+    "price": 499,
+    "description": "Unlimited WhatsApp, Insta Speed Boost",
+    "validity": "30 Days",
+    "speed": "75 Mbps"
+  },
+  {
+    "planName": "Fiber Business Plus",
+    "price": 4999,
+    "description": "Dedicated bandwidth + Support",
+    "validity": "30 Days",
+    "speed": "500 Mbps"
+  }
+]
